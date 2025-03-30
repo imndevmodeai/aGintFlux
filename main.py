@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+# Copyright (c) 2023-2024 imndevmodeai. All rights reserved.
+# See LICENSE file for details.
+#
+# NOTICE: This file contains proprietary code implementing the MasterMind_AI system
+# with Tesla-Inspired Waveforms and quantum state transformation techniques.
+# The architecture and implementation are original intellectual property.
+#
+# This code is provided under the terms of the MIT License.
+# 
 """
 MasterMind_AI - Quantum State Transformation with Tesla-Inspired Waveforms
 Main script to run the system

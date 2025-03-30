@@ -1,0 +1,13 @@
+# Knowledge Graph Data Notice
+
+The original unstructured knowledge graph data (`unStructured_KG.txt`) has been moved to a private repository for security and intellectual property protection.
+
+If you need access to this data, please contact the repository owner.
+
+## Path to Private Repository
+
+The data is located at: `../AGI-private/blueprints/unStructured_KG.txt`
+
+## Copyright
+
+Copyright (c) 2023-2024 imndevmodeai. All rights reserved. 

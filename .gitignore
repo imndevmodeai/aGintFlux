@@ -63,4 +63,8 @@ blueprints/spr_formatted_kg.json
 *.log
 
 # Local repo clone
-aGintFlux/ 
+aGintFlux/
+
+# Private data files
+blueprints/unStructured_KG.txt
+../AGI-private/ 

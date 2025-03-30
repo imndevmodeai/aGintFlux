@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+# Copyright (c) 2023-2024 imndevmodeai. All rights reserved.
+# See LICENSE file for details.
+#
+# NOTICE: This file contains proprietary code implementing Sparse Priming Representations (SPR)
+# and related knowledge graph processing techniques. The SPR capitalization format (first and last 
+# letters capitalized) and associated processing algorithms are original intellectual property.
+#
+# This code is provided under the terms of the MIT License.
+# 
 """
 Simple String-Based Knowledge Graph SPR Converter
 
