@@ -1,0 +1,45 @@
+[
+  {
+    "action": "web_search",
+    "params": {"query": "quantum cryptography applications"}
+  },
+  {
+    "action": "huggingface_dataset_search",
+    "params": {"query": "quantum computing datasets"}
+  },
+  {
+    "action": "github_project_search",
+    "params": {"query": "quantum machine learning open source"}
+  },
+  {
+    "action": "scholarly_article_search",
+    "params": {"query": "quantum cryptography theory"}
+  },
+  {
+    "action": "execute_code",
+    "params": {"code_string": "import numpy as np; print(np.eye(3))"}
+  },
+  {
+    "action": "run_cfp",
+    "mode": "run_cfp",
+    "params": {
+      "state_series_1": "get_agent_state_history",
+      "state_series_2": "agent_2"
+     },
+     "context": {"agent_2": "agent.state_history"}
+  },
+  {
+    "action": "exploit"
+  },
+  {
+    "action": "quantum_entanglement_analysis",
+    "params": {
+      "state_series": "get_entangled_state_history",
+      "resonance_targets": ["orbital", "geospheric", "quantum_vacuum"]
+    },
+    "context": {
+      "entanglement_level": 9,
+      "schumann_phase_lock": true
+    }
+  }
+] 

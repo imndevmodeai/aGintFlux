@@ -1,0 +1,15 @@
+<capability>
+    <name>Digital Twin Operations</name>
+    <description>
+        Create and manage virtual replicas of physical systems for simulation and analysis.
+        Includes tools for real-time monitoring, predictive maintenance, and scenario testing.
+    </description>
+    <spr>5.345</spr>
+</capability>
+<capability>
+    <name>Human-Machine Interface Design</name>
+    <description>
+        Develop intuitive user interfaces with advanced HMI/UX capabilities.
+        Supports user testing, prototyping, and accessibility compliance.
+    </description>
+    <spr>5.410</spr> 
