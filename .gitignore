@@ -52,6 +52,7 @@ venv/
 ENV/
 env/
 ENV/
+agi_env/
 
 # IDEs
 .idea/
@@ -59,4 +60,7 @@ ENV/
 
 # Output files (if needed)
 blueprints/spr_formatted_kg.json
-*.log 
+*.log
+
+# Local repo clone
+aGintFlux/ 
